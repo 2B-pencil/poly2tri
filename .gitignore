@@ -11,6 +11,7 @@ build/
 # Visual Studio Code
 /.vscode/*cache*
 /.vscode/ipch/
+/.vscode/setting.json
 /.ccls-cache/
 /compile_commands.json
 /.cache/
